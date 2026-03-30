@@ -3,6 +3,9 @@ Jonas Bonfá Pelegrina
 
 # Como utilizar
 
+<img width="1228" height="492" alt="Captura de Tela 2026-03-30 às 13 47 35" src="https://github.com/user-attachments/assets/4a509228-abb4-4cee-b764-bcab7f48e884" />
+
+
 1. Abra o Firefox e acesse about:debugging na barra de endereço
 
 2. Clique em "Este Firefox" no menu lateral
@@ -11,7 +14,17 @@ Jonas Bonfá Pelegrina
 
 4. Navegue até a pasta cyber-privacy-shield/ e selecione o arquivo manifest.json
 
-# Usos reais
+# Usos: UOL,GOOGLE,INSPER
+
+<img width="1261" height="752" alt="Captura de Tela 2026-03-30 às 14 13 07" src="https://github.com/user-attachments/assets/621dd9e0-ef8a-466e-872b-11a1bf94d01c" />
+
+<img width="1261" height="752" alt="Captura de Tela 2026-03-30 às 14 13 13" src="https://github.com/user-attachments/assets/785c100d-c8d6-4eb7-92e3-e9d78a7df06d" />
+
+<img width="1261" height="752" alt="Captura de Tela 2026-03-30 às 14 13 21" src="https://github.com/user-attachments/assets/c6e72f2e-c5c7-4d52-a130-887ac2b0bb96" />
+
+<img width="1261" height="752" alt="Captura de Tela 2026-03-30 às 14 13 37" src="https://github.com/user-attachments/assets/4d74eed1-1409-405d-bf81-7475245407fa" />
+
+<img width="1261" height="752" alt="Captura de Tela 2026-03-30 às 14 13 46" src="https://github.com/user-attachments/assets/cab2862f-a3ee-4b9b-9751-5f190bc3edc8" />
 
 
 # Pontuação de Privacidade
