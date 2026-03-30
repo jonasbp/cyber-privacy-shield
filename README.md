@@ -31,6 +31,7 @@ Jonas Bonfá Pelegrina
 A pontuação começa em 100 pontos e recebe penalidades proporcionais a cada ameaça detectada.
 
 Indicador| Penalidade| Máximo| Justificativa
+
 Rastreadores detectados|	-8 por rastreador|-40 Alto impacto no perfil do usuário|
 
 Domínios de terceira parte|	-2 por domínio|-20 Risco de rastreamento indireto|
