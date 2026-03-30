@@ -54,8 +54,15 @@ IndexedDB|-5|-5|Base de dados local|
 
 
 Nota	Pontuação	Avaliação
+
 A	80–100	Excelente – página respeita a privacidade
+
 B	60–79	Bom – rastreamento mínimo
+
 C	40–59	Regular – rastreamento moderado
+
 D	20–39	Ruim – rastreamento intenso
+
 F	0–19	Péssimo – múltiplas ameaças detectadas
+
+Possui auxilio de ferramentas de inteligência artificial no projeto.
